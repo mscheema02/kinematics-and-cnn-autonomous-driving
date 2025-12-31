@@ -1,5 +1,7 @@
 # Kinematics + CNN Road-Following (ROS2 + Gazebo)
 
+[![Watch the demo](https://img.youtube.com/vi/WNtQVkMYbj0/maxresdefault.jpg)](https://www.youtube.com/watch?v=WNtQVkMYbj0)
+
 This project contains **two parts**:
 
 1. **Kinematics (Part 1):** analytical work deriving homogeneous transformation matrices for a planar robot setup. I used the **Kinova Gen3 Lite**, a 6 degree of freedom robotic arm availabe at Lassonde School of Engineering to test movements.
