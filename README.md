@@ -1,6 +1,8 @@
 # Kinematics + CNN Road-Following (ROS2 + Gazebo)
 
-[![Watch the demo](https://img.youtube.com/vi/WNtQVkMYbj0/maxresdefault.jpg)](https://www.youtube.com/watch?v=WNtQVkMYbj0)
+[![Watch the demo](https://img.youtube.com/vi/WNtQVkMYbj0/hqdefault.jpg)](https://www.youtube.com/watch?v=WNtQVkMYbj0)
+
+**Demo video:** https://www.youtube.com/watch?v=WNtQVkMYbj0
 
 This project contains **two parts**:
 
