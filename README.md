@@ -227,7 +227,7 @@ ros2 run cpmr_ch6 auto_drive_by_road --ros-args   -p model:=/absolute/path/to/ro
 
 ---
 
-## Overall
+## Conclusion
 
 - Built a ROS2 + Gazebo autonomous road-following system by training a 3-class CNN (left/forward/right) and deploying real-time inference to publish `geometry_msgs/Twist` on `/cmd_vel`.
 - Implemented an end-to-end ML workflow: automated dataset capture in simulation, image preprocessing (28×28 normalization), CNN training (Keras), and offline validation.
