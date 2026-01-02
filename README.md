@@ -41,7 +41,6 @@ This project has **two parts**:
   - [5) Quick offline evaluation](#5-quick-offline-evaluation)
   - [6) Run autonomous driving in Gazebo](#6-run-autonomous-driving-in-gazebo)
 - [Learnings](#learnings)
-- [Resume bullets (copy/paste)](#resume-bullets-copypaste)
 - [Key parameters](#key-parameters)
 - [Troubleshooting](#troubleshooting)
 
