@@ -15,7 +15,7 @@ This project has **two parts**:
 
 ---
 
-## Key highlights (resume-friendly)
+## Key highlights
 
 - Built a full **data → training → deployment** pipeline: Gazebo simulation → image dataset → CNN training → real-time inference ROS2 node.
 - Implemented a 3-class **behavior classifier** (`left`, `forward`, `right`) and mapped predictions to **Twist** commands for autonomous control.
